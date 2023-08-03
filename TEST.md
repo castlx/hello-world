@@ -9,3 +9,5 @@ Testing (will it work? xD)
 So now, it seems using () here seems to be just typing a normal(#for now#) text and is displaying what it should be on the preview on GitHub(repositories).
 (Please don't mind me I'm just talking to myself xD, still i don't know how to Shift+Enter though xD some other time, kapoy google haha)
 I apologize if I made this like a diary but, wcyd? xD bye for now.
+
+I just noticed. YOU JUST PUT A BLANK LINE TO SHIFT+ENTER. Silly me. lmao
